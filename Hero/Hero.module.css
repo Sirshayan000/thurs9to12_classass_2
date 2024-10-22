@@ -1,0 +1,7 @@
+.hero{
+    background-color: rgb(145, 210, 210);
+    color:black;
+    background-image: url("/Hero/hero.jpeg");
+    background-size: cover;
+    height: 600px;
+}
